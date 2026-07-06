@@ -151,23 +151,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── login.png
-├── flights.png
-├── dashboard.png
-└── bookings.png
-```
-
----
-
 ## 🔒 Authentication
 
 - JWT Authentication
@@ -195,7 +178,7 @@ screenshots/
 
 GitHub: https://github.com/syedhussain0827
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: *([Add your LinkedIn profile link here](https://www.linkedin.com/in/syed-yousuf-hussain-42336a317/))*
 
 ---
 

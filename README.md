@@ -178,7 +178,7 @@ http://localhost:5173
 
 GitHub: https://github.com/syedhussain0827
 
-LinkedIn: *([Add your LinkedIn profile link here](https://www.linkedin.com/in/syed-yousuf-hussain-42336a317/))*
+LinkedIn: https://www.linkedin.com/in/syed-yousuf-hussain-42336a317/
 
 ---
 
